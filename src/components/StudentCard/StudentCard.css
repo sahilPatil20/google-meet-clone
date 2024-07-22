@@ -1,0 +1,24 @@
+.Student-card-container {
+    background-color: #454545;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    padding-top: 10px;
+    margin: 15px;
+}
+
+.student-card-img{
+    display: block;
+    margin: 5px auto;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.student-card-name {
+    color: #fff;
+    font-weight: lighter;
+    position: relative;
+    left: 15px;
+    bottom: 7px;
+}
